@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "route": "/my_jolie_candle/promo-1", "rewrite": "/my_jolie_candle/promo-1.html" },
+  ],
+  "navigationFallback": { "rewrite": "/index.html" }
+}
